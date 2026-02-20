@@ -9,7 +9,8 @@ int main() {
     cout << "Number: 67 ";
     cin >> number;
 
-    cout << "SIX SEVEN!!:" << number << endl;
+    cout << "SIX SEVEN!!!:" << number << endl;
 
     return 0;
+
 }
